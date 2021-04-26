@@ -1,0 +1,23 @@
+h1 {
+    color: blue; }
+
+    /* .divClass { 
+    height: 400px;
+    width: 400px; 
+    background: red;} */
+
+    #spanId {
+    font-size:  18px;
+    margin: 50px;}
+
+    #thirdDiv{
+      height: 500px;
+      width: 600px;
+      background-color: red;    
+      padding: 50px;  
+      border: 10px solid lightblue; 
+    }
+
+    img {  
+    width: 400px; 
+   }
