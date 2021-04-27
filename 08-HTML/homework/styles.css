@@ -13,9 +13,9 @@ h1 {
     #thirdDiv{
       height: 500px;
       width: 600px;
-      background-color: red;    
+      background-color: rgb(199, 226, 228);    
       padding: 50px;  
-      border: 10px solid lightblue; 
+      border: 10px solid rgb(238, 193, 230); 
     }
 
     img {  
